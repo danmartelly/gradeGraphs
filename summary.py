@@ -1,0 +1,3 @@
+import dataFuncs
+
+dataFuncs.aggregateResponses()
